@@ -1,0 +1,18 @@
+{
+  "device": "cpu",
+  "dataset": "C:\\Users\\Deborah\\Desktop\\PatellaVision_AI\\PatellaVision_AI\\dataset\\diego-romano-KneeBones3Dify-Annotated-Dataset-01f567d",
+  "split_sizes": {
+    "train": 197,
+    "validation": 42,
+    "test": 43
+  },
+  "test_split_used_for_training_or_selection": false,
+  "epochs_completed": 20,
+  "best_epoch": 10,
+  "best_validation_dice": 0.9285558916273571,
+  "elapsed_seconds": 188.04,
+  "checkpoint": "C:\\Users\\Deborah\\Desktop\\PatellaVision_AI\\PatellaVision_AI\\models\\best_unet.pt",
+  "history": "C:\\Users\\Deborah\\Desktop\\PatellaVision_AI\\PatellaVision_AI\\results\\training_history.csv",
+  "learning_curves": "C:\\Users\\Deborah\\Desktop\\PatellaVision_AI\\PatellaVision_AI\\results\\graphs\\training_curves.png",
+  "single_volume_exploratory_split": true
+}
