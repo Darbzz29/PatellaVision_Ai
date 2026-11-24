@@ -155,7 +155,4 @@ validation.
   redistributing images, masks, or derived data. This project does not include
   the dataset license as a claim about ownership of the medical data.
 
-See [REPORT.md](./REPORT.md) for the methods and recorded results,
-[PRESENTATION_OUTLINE.md](./PRESENTATION_OUTLINE.md) for slide content and
-viva questions, and [PatellaVision_AI_Presentation.pptx](./PatellaVision_AI_Presentation.pptx)
-for the editable 11-slide deck.
+
