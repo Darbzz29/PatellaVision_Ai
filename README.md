@@ -21,15 +21,7 @@ not diagnose a condition or predict a clinical outcome.
   a patient explanation template; a clinician-entered case-discussion
   checklist and notes; and PNG/TXT/CSV exports for research.
 
-## Team workstreams
 
-Both planned workstreams are implemented in the project:
-
-- **Member 1 - AI/ML:** dataset pairing and split, preprocessing, U-Net,
-  CPU training, checkpoint selection, and held-out Dice/IoU evaluation.
-- **Member 2 - image processing, app, and research:** controlled noise,
-  contrast, and blur experiments, visualizations, Streamlit demonstration,
-  literature context, report, and presentation materials.
 
 These are role-based responsibilities, not verified individual authorship.
 Add team member names and confirm actual contributions before submission.
